@@ -8,7 +8,7 @@ namespace Pattern.Visitor
 {
     public class Employees
     {
-        private List<Employee> _employees = new List<Employee>();
+        private List<Employee> _employees = new List<Employee>(); 
 
         public void Attach(Employee employee)
         {
