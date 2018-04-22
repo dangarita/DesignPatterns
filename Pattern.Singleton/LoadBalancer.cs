@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Pattern.Singleton
 {
+    /// <summary>
+    /// The 'Singleton' class
+    /// </summary>
     public class LoadBalancer
     {
         private static LoadBalancer _instance;
